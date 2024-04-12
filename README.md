@@ -2,4 +2,4 @@
 Barbernails
 Fodrász és körmös szalon egyben
 Időpontfoglalás nap, időpont szerint az oldalon
-Szolgáltatások Asszonyok és Urak kedvére egyaránt
+Szolgáltatások Hölgyek és Urak kedvére egyaránt
