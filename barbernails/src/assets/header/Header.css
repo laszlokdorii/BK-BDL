@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    background-color: rgb(112, 112, 255);
+    width: 100vw;
+    margin: 0px;
+
+}
+
+.headerH1 {
+    margin: 0px;
+    padding: 0px;
+}

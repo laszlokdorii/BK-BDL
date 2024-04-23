@@ -1,7 +1,13 @@
 import './App.css'
+import Header from './assets/header/Header'
+import Navbar from './assets/navbar/Navbar'
 
 function App() {
-  return <h1>Barbernails</h1>
+  return <div>
+          <Header/>
+          <Navbar/>
+          </div>
+
 }
 
 export default App
